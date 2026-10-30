@@ -1,5 +1,3 @@
-![Aditya Katare](./github-header-banner.png)
-
 # Aditya Katare
 
 Software Engineer at **SuretyNow** · Bangalore, India
