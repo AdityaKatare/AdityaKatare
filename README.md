@@ -15,4 +15,9 @@ I build practical software end to end, from data pipelines and backends to the i
 
 ## Tools I work with
 
-Python · TypeScript / JavaScript · Java · SQL · React · Node.js · LangChain · TensorFlow / Keras · Git
+- **Languages:** TypeScript, Python, Kotlin, SQL, Java
+- **Web:** Next.js, React, Node.js, Tailwind CSS
+- **Data & infra:** PostgreSQL, Supabase, MongoDB, Docker, Vercel
+- **Android:** Jetpack Compose, Room, ADB
+- **AI:** LLM apps with LangChain, custom Claude Skills, Composio
+- **Integrations:** Salesforce
