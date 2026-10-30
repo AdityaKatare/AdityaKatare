@@ -16,8 +16,10 @@ I build practical software end to end, from data pipelines and backends to the i
 ## Tools I work with
 
 - **Languages:** TypeScript, Python, Kotlin, SQL, Java
-- **Web:** Next.js, React, Node.js, Tailwind CSS
-- **Data & infra:** PostgreSQL, Supabase, MongoDB, Docker, Vercel
+- **Web:** Next.js, React, Node.js, Tailwind CSS, technical SEO
+- **Data:** web scraping and data pipelines, PostgreSQL, Supabase, MongoDB
+- **Infra & analytics:** Docker, Vercel, PostHog
+- **AI:** LLM apps and agents with LangChain, Claude Skills, Composio
 - **Android:** Jetpack Compose, Room, ADB
-- **AI:** LLM apps with LangChain, custom Claude Skills, Composio
+- **Reverse engineering:** Ghidra, JADX
 - **Integrations:** Salesforce
