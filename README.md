@@ -1,6 +1,6 @@
 # Aditya Katare
 
-Software Engineer at **SuretyNow** · Bangalore, India
+Software Engineer at **SuretyNow (YC W24)** · Bangalore, India
 
 I build practical software end to end, from data pipelines and backends to the interfaces people actually use. Before SuretyNow I was a project intern at ISRO, building backend processing for raw satellite data and GUIs for visualising satellite orbits. I studied Computer Science (B.Tech) at Ramaiah University of Applied Sciences.
 
